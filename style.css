@@ -1,0 +1,32 @@
+
+
+.jumbotron {
+    background: white;
+    
+    
+}
+
+
+.card {
+    height: 375px;
+    
+}
+.card-img-top {
+    
+    height: 200px;
+}
+
+a {
+    color: green;
+}
+
+.contactUs {
+    text-align: center;
+}
+
+h4 {
+    color: green;
+}
+h6 {
+    color: green;
+}
